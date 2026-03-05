@@ -221,4 +221,5 @@ ORDER BY customer_rank LIMIT 20;
 
 
 --7.To understand how different payment methods affect monthly sales growth, Amazon wants to compute the total sales for each payment method and calculate the month-over-month growth rate for the past year (year 2018). Write query to first calculate total monthly sales for each payment method, then compute the percentage change from the previous month. 
+
 --Output: payment_type, sale_month, monthly_total, monthly_change.
